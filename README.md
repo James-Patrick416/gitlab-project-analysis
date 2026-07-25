@@ -14,13 +14,13 @@
 ![Top Projects](download.png)
 
 ### Stars vs Forks (Popularity vs Contribution)
-![Stars vs Forks](download (1).png)
+![Stars vs Forks](download(1).png)
 
 ### Distribution of Stars
-![Stars Distribution](download (2).png)
+![Stars Distribution](download(2).png)
 
 ### Activity Timeline (2020-2026)
-![Activity Timeline](download (3).png)
+![Activity Timeline](download(3).png)
 
 ## 📊 Key Insights
 
